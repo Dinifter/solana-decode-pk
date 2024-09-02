@@ -42,7 +42,7 @@ Usage
 Run the script with the following command:
 
 ```
-python decode_private_key.py
+python pk_decode.py
 ```
 
 This will decode your Base58 encoded private key, convert it into a numerical array, and save it in a file named id.json in the current directory.
