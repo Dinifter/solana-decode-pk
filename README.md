@@ -20,8 +20,8 @@ If you haven't installed Python, download it from the official Python website (h
 Clone this repository to your local machine using Git:
 
 ```
-git clone https://github.com/yanowo/solana_decode_private_key.git
-cd solana_decode_private_key
+git clone https://github.com/Dinifter/solana-decode-pk
+cd solana-decode-pk
 ```
 
 3. Install Dependencies
